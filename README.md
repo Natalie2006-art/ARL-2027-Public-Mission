@@ -24,3 +24,6 @@ Before reaching out, make sure your question cannot be answered by re-reading th
 Enquiries are welcome for real ambiguities or technical blockers, NOT as a substitute for effort.
 Include what you've already tried and exactly where you're stuck.
 Send at karimkhaled2k4@gmail.com, just make sure the Subject Line starts with `SOLOMISSION:`
+
+### NOTE
+Due to the github crash on monday, deadline has been extended to Friday August 21, 11:59PM. Do not send any emails about further deadline extensions, we understand and relate to all your circumstances (summer exam, travels, hacakthons...etc.) but unfortunately further deadline extensions will not be possible.
