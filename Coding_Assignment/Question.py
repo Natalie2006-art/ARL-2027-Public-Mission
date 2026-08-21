@@ -12,7 +12,8 @@ def monitor_following_distance(distances: list[float], speeds: list[float]) -> t
             - minimum_distance: absolute closest distance to the lead car (return 0.0 if empty list)
             - tailgate_incidents: number of separate instances the car started tailgating
     """
-       
+
+   
     if not distances:
         return (0,0.0,0)
     tailgating_seconds =0
@@ -30,3 +31,4 @@ def monitor_following_distance(distances: list[float], speeds: list[float]) -> t
                 tailgate_incidents+=1
                 is_tailgating = True
     return(tailgating_seconds, minimum_distance, tailgate_incidents)
+            
